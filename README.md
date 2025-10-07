@@ -14,7 +14,7 @@ Each branch represents the work completed on a specific day of the course.
 ### 🗂️ Repository Structure
 
 - **`main` branch:** Overview and general setup
-- **`day-1` branch:** Basics and Components
+- **`day-1` branch:** [Basics and Components](/logs/day1.md)
 
 ---
 
