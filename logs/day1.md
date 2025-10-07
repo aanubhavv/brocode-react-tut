@@ -19,3 +19,4 @@ npm create vite@latest
 
 - added Header component
 - added Footer component
+- components is a section of reusable code that can include javascript and/or HTML code
