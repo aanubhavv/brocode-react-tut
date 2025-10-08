@@ -16,6 +16,8 @@
 - props -> props are read-only properties that are shared between components. A parent component can send data to a child component.
 - how does props work in component -> add props as parameter to the component function
 - we can then use this props object(parameter) by passing key value pair upon calling it in out App.jsx
+- propTypes -> a mechanism that ensures that the passed value is of the correct datatype.
+  (age: PropTypes.number) [for debugging]
 
 ### Tasks performed
 
