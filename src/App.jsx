@@ -1,5 +1,11 @@
+import UserGreeting from "./components/UserGreeting"
+
 function App() {
-  return (<></>)
+  return (
+    <>
+      <UserGreeting isLoggedIn={true} username="Anubhav"/>
+    </>
+  )
 }
 
 export default App
