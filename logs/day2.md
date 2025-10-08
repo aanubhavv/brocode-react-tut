@@ -18,6 +18,7 @@
 - we can then use this props object(parameter) by passing key value pair upon calling it in out App.jsx
 - propTypes -> a mechanism that ensures that the passed value is of the correct datatype.
   (age: PropTypes.number) [for debugging]
+- Default props -> default values from props in case they are not passed from the parent component eg: Name: "Guest
 
 ### Tasks performed
 
