@@ -30,3 +30,5 @@
 ### Tasks performed
 
 - added styling in a button component using different ways.
+- used react props to send data to the components
+- used props to perform conditional rendering
