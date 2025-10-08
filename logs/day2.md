@@ -3,6 +3,7 @@
 ### Theory
 
 - css can be applied in different ways in a react component: External, Module, Inline
+- Module css styling helps to eliminate naming conflict
 
 ### Tasks performed
 
