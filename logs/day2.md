@@ -20,6 +20,13 @@
   (age: PropTypes.number) [for debugging]
 - Default props -> default values from props in case they are not passed from the parent component eg: Name: "Guest
 
+3. Conditional rendering
+
+- allows you to Control what gets rendered
+  in your application based on certain conditions
+  (show, hide, or change components)
+- we will use props and if else statements to perform conditional rendering
+
 ### Tasks performed
 
 - added styling in a button component using different ways.
