@@ -9,3 +9,6 @@
 - Rendered lists from an array of items
 - Used map method to map list items
 - used sort method to sort alphabetically or Numerically
+- Made List a reusable component using props and passing the values of individual lists for (eg fruits, vegetables, etc)
+- added css to lists
+- Applied conditional rendering to handle empty lists
