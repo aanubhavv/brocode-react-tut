@@ -8,3 +8,4 @@
 
 - Rendered lists from an array of items
 - Used map method to map list items
+- used sort method to sort alphabetically or Numerically
