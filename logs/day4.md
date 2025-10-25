@@ -12,3 +12,4 @@
 - counted no. of times button is clicked
 - Changed text of the button itself when clicked
 - Used onClick and clickHandler on image
+- Removed image when clicked using events
