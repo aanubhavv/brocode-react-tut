@@ -17,6 +17,7 @@ Each branch represents the work completed on a specific day of the course.
 - **`day-1` branch:** [Basics and Components](/logs/day1.md)
 - **`day-2` branch:** [CSS Styling, props & conditional rendering](/logs/day2.md)
 - **`day-3` branch:** [Dynamic list rendering](/logs/day3.md)
+- **`day-4` branch:** [Click Events](/logs/day4.md)
 
 ---
 
