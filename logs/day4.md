@@ -7,3 +7,4 @@
 ### Tasks performed
 
 - used onClick and and click handler function to perform something when button is clicked.
+- performed click handling with arguments
